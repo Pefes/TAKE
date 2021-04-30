@@ -10,3 +10,5 @@
 /MDBLab/MDBLab-war/dist/
 /MDBLab/MDBLab-ejb/dist/
 /MDBLab/MDBLab-war/build/
+/Complaints/target/
+/ComplaintsClient/target/
